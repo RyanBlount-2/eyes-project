@@ -1,0 +1,36 @@
+body {
+   margin: 0;
+   padding: 0;
+   background: rgb(20, 75, 95);
+}
+
+.eyes {
+   position: absolute;
+   width: 100%;
+   text-align: center;
+   top: 50%;
+   left: 50%;
+   transform: translate(-50%, -50%);
+}
+
+.eye {
+   position: relative;
+   display: inline-block;
+   width: 18%;
+   height: 90px;
+   margin: 50px;
+   border-radius: 50%;
+   overflow: hidden;
+   background: rgb(192, 192, 192);
+}
+
+.pupil {
+   position: absolute;
+   top: 50%;
+   left: 50%;
+   transform: translate(-50%, -50%);
+   width: 75px;
+   height: 75px;
+   border-radius: 50%;
+   background: rgb(0, 0, 0);
+}
