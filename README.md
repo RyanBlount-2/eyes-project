@@ -9,10 +9,8 @@
 
     Features Include:
      - HTML, CSS, & JavaScript Source Code
-     - Object Motion In X & Y Axes
-     - Edge Detection
-     - Interactive Cursor
-     - Fun
+     - Cursor Tracking
+     - Creepiness
    
 ## Instructions For Use:
 > You can access my project via [GitHub Pages](https://ryanblount-2.github.io/eyes-project/).
