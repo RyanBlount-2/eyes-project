@@ -30,7 +30,7 @@
 > [LinkedIn Profile](https://linkedin.com/in/ryanblount2)  
 
 ## Roadmap:
-> Future improvements such as more interactivity and more eyes are in the plans.
+> Future improvements are in the plans. I'd like to add more interactivity for the user. I plan to create a game where the eyes look similar to the Eye of Sauron from The Lord Of The Rings series and shoot laser beam projectiles that the user has to avoid. 'Eye' look forward to updating this project.
 
 ## License:
 > MIT License
